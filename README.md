@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 1- Clone the repository
 bash
 Copy code
-'''git clone https://github.com/[username]/book-store-app-mern-stack.git'''
+```git clone https://github.com/[username]/book-store-app-mern-stack.git```
 2- Install dependencies
 bash
 Copy code
