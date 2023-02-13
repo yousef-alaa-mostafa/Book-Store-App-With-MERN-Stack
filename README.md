@@ -2,11 +2,11 @@
 A fully-functional web application for managing books in a virtual book store, built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack.
 
 ## Features
-User authentication and authorization with JSON Web Tokens (JWT)
-CRUD (Create, Read, Update, Delete) operations for books
-Search and filter books by title, author, and genre
-Add and view book reviews
-Responsive design for optimal user experience on all devices
+- User authentication and authorization with JSON Web Tokens (JWT)
+- CRUD (Create, Read, Update, Delete) operations for books
+- Search and filter books by title, author, and genre
+- Add and view book reviews
+- Responsive design for optimal user experience on all devices
 
 ##Getting Started
 To get started with this project, follow these steps:
