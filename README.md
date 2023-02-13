@@ -1,7 +1,7 @@
-#Book Store App With MERN Stack
+# Book Store App With MERN Stack
 A fully-functional web application for managing books in a virtual book store, built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack.
 
-##Features
+## Features
 User authentication and authorization with JSON Web Tokens (JWT)
 CRUD (Create, Read, Update, Delete) operations for books
 Search and filter books by title, author, and genre
