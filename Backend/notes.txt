@@ -1,0 +1,12 @@
+to initalize node project use command:
+	npm init
+	npm i nodemon *** if not exist
+
+	2-Add
+	"start": "nodemon app.js", to the script
+
+	3- npm start to start the project
+
+	4- npm i express
+
+	5- npm i mongoose
