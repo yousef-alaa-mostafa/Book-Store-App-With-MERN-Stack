@@ -11,32 +11,44 @@ A fully-functional web application for managing books in a virtual book store, b
 ## Getting Started
 To get started with this project, follow these steps:
 
-1- Clone the repository
-bash
-Copy code
+1- Clone the repository:
+<br />
 ```git clone https://github.com/[username]/book-store-app-mern-stack.git```
-2- Install dependencies
-bash
-Copy code
-cd book-store-app-mern-stack
-npm install
-
-3- Start the development server
-Copy code
-npm run dev
+<br />
+<br />
+2- Install dependencies of backend:
+<br />
+```cd backend```
+<br />
+```npm install```
+<br />
+<br />
+3- Start the development server of backend:
+```npm start```
+<br />
+<br />
+4- Install dependencies of frontend:
+<br />
+```cd ..```
+<br />
+```cd frontend```
+<br />
+```cd book-store```
+<br />
+```npm install```
+<br />
+<br />
+3- Start the development server of frontend:
+```npm start```
+<br />
+<br />
 4- Open your web browser and go to http://localhost:3000
-Technologies Used
-MongoDB
-Express.js
-React.js
-Node.js
-JSON Web Tokens (JWT)
-Bootstrap
-## Contributing
-If you are interested in contributing to this project, please feel free to submit a pull request. Any contributions, big or small, are greatly appreciated!
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
+<br />
+## Technologies Used
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- JSON Web Tokens (JWT)
+- Bootstrap
 
